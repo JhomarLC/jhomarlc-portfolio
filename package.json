@@ -1,7 +1,7 @@
 {
 	"name": "portfolio",
-	"homepage": "https://jhomarlc.github.io/jhomarlc-portfolio/",
 	"private": true,
+	"homepage": "https://jhomarlc.github.io/jhomarlc-portfolio/",
 	"version": "0.0.0",
 	"type": "module",
 	"scripts": {
